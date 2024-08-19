@@ -86,3 +86,6 @@ Antes de executar este script, assegure-se de ter o Python instalado em sua máq
         }
     }
     ```
+
+<sub> Se esse script lhe foi útil e você quer me agradecer, me pague um café! PIX: dd98c2af-b42d-4a34-8814-1df13891e78e </sub>
+
